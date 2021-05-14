@@ -24,8 +24,8 @@ To use the code
 
 Know Issues
 ------------
-Users of macOS BigSur getting the following error:
-"pyserial or esptool not found next to this upload.py tool"
+Users of macOS BigSur getting the following error when trying to upload the sketch to the esp8288 via the Arduino IDE.
+"pyserial or esptool not found next to this upload.py tool" 
 
 Solution:
 1. Download https://github.com/espressif/esptool/archive/v3.0.zip

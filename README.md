@@ -17,6 +17,16 @@ Required Software & Libraries
 - MD_MAX72xx (https://github.com/MajicDesigns/MD_MAX72XX) libraries
 - theSwedishMaker.h - Custom fonts for the dot matrix display made by https://github.com/TheSwedishMaker
 
+How to use ESP8266 with Arduino IDE
+-----------------------
+To install the ESP8266 board in your Arduino IDE, follow these next instructions:
+1. In your Arduino IDE, go to File> Preferences
+2. Enter http://arduino.esp8266.com/stable/package_esp8266com_index.json into the “Additional Boards Manager URLs” field. Then, click the “OK”
+3. Open the Boards Manager. Go to Tools > Board > Boards Manager
+4. Search for ESP8266 and press install button for the “ESP8266 by ESP8266 Community“
+5. That’s it. It should be installed after a few seconds.
+(Source: https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/)
+
 To use the code
 ---------------
 - Enter your Wifi SSID and password at the marked location in the file. 

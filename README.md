@@ -29,7 +29,7 @@ To install the ESP8266 board in your Arduino IDE, follow these next instructions
 
 To use the code
 ---------------
-- Enter your Wifi SSID and password at the marked location in the file. 
+- Enter your Wi-Fi SSID and Wi-Fi password at the marked location in the file.
 - Change the domain/server that you wish to ping.
 
 Know Issues

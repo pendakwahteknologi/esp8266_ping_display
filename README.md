@@ -24,7 +24,7 @@ To use the code
 
 Know Issues
 ------------
-1) Users of macOS BigSur getting the following error:
+Users of macOS BigSur getting the following error:
 "pyserial or esptool not found next to this upload.py tool"
 
 Solution:

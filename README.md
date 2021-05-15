@@ -17,7 +17,7 @@ Required Software & Libraries
 - MD_MAX72xx (https://github.com/MajicDesigns/MD_MAX72XX) libraries
 - theSwedishMaker.h - Custom fonts for the dot matrix display made by https://github.com/TheSwedishMaker
 
-Installing the NodeMCU Driver drivers for macOS & Windos
+Installing the NodeMCU Driver drivers for macOS & Windows
 -------------------
 The first step on the mac is to install drivers. Go to https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 

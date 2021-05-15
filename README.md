@@ -17,15 +17,24 @@ Required Software & Libraries
 - MD_MAX72xx (https://github.com/MajicDesigns/MD_MAX72XX) libraries
 - theSwedishMaker.h - Custom fonts for the dot matrix display made by https://github.com/TheSwedishMaker
 
-Installing the NodeMCU Driver drivers for macOS
+Installing the NodeMCU Driver drivers for macOS & Windos
 -------------------
 The first step on the mac is to install drivers. 
 
-1. Download https://www.silabs.com/Support%20Documents/Software/Mac_OSX_VCP_Driver.zip  to your Downloads folder
-2. Double click on SiLabsUSBDriverDisk.dmg
-3. Double click on Silicon Labs VCP Driver Install Disk.pkg
-4. Click on Continue
-5. Finish installation
+For macOS
+1. Go to https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+2. For macOS, select the CP210x VCP Mac OSX Driver
+3. Double click on SiLabsUSBDriverDisk.dmg 
+4. Double click on Silicon Labs VCP Driver Install Disk.pkg
+5. Click on Continue
+6. Finish installation
+
+For Windows
+1. Go to https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+2. For macOS, select the CP210x VCP Windows
+3. Double click on the CP210xVCPInstaller_x64.exe or CP210xVCPInstaller_x86.exe (depending on your system architecture)
+5. Click on Continue
+6. Finish installation
 
 How to use ESP8266 with Arduino IDE
 -----------------------
